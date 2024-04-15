@@ -1,6 +1,6 @@
 package rest
 
-import "gitlab.com/sbt-devops/ci-cd/go-metrics/monitoring"
+import "github.com/paolocarta/go-metrics/monitoring"
 
 const (
 	// Custom metrics

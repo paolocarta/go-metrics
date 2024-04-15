@@ -3,8 +3,8 @@ package rest
 import (
 	"net/http"
 
-	"gitlab.com/sbt-devops/ci-cd/go-metrics/logging"
-	"gitlab.com/sbt-devops/ci-cd/go-metrics/monitoring"
+	"github.com/paolocarta/go-metrics/logging"
+	"github.com/paolocarta/go-metrics/monitoring"
 
 	"github.com/gorilla/mux"
 )

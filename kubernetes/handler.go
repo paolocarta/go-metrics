@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"gitlab.com/sbt-devops/ci-cd/go-metrics/logging"
+	"github.com/paolocarta/go-metrics/logging"
 )
 
 const (
